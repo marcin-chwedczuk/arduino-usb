@@ -1,0 +1,15 @@
+# CMake build trees (presets put everything under build/)
+build/
+cmake-build-*/
+
+# Personal CMake presets (CMakePresets.json IS committed)
+CMakeUserPresets.json
+
+# Qt Creator per-user settings
+CMakeLists.txt.user*
+*.autosave
+.qtcreator/
+
+# clangd
+.cache/
+compile_commands.json

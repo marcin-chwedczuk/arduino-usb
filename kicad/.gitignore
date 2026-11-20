@@ -1,0 +1,13 @@
+# Backups and autosaves
+*-backups/
+_autosave-*
+*.bak
+*-bak
+\#auto_saved_files\#
+
+# Lock files
+*.lck
+
+# Local / per-user state
+*.kicad_prl
+fp-info-cache

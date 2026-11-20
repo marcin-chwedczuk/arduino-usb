@@ -1,0 +1,21 @@
+# --- macOS ---
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+.TemporaryItems
+
+# --- Linux ---
+*~
+.directory
+.Trash-*
+.nfs*
+
+# --- Editors / IDEs ---
+.vscode/
+.idea/
+*.swp
+*.swo

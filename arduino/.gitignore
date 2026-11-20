@@ -1,0 +1,14 @@
+# arduino-cli / Arduino IDE build output
+build/
+
+# PlatformIO
+.pio/
+
+# Compiled artifacts
+*.o
+*.elf
+*.hex
+*.bin
+*.eep
+*.map
+*.lst
